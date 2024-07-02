@@ -8,7 +8,7 @@ menuLinks.forEach(link => {
     // Redirect based on clicked menu item text
     switch (targetUrl) {
       case "home":
-        window.location.href = "Index.html"; // Replace with your actual URL
+        window.location.href = "index.html"; // Replace with your actual URL
         break;
       case "tutorials":
         window.location.href = "Tutorials.html"; // Replace with your actual URL
